@@ -124,3 +124,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 MUHAMMAD HARRIS - [@im_harrisg](https://instagram.com/im_harrisg) - harris20014@gmail.com
 
 Project Link: [QR Code Generator](https://github.com/imharris24/QRcodeGenerator-PY)
+
+
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [qrcode - PyPI](https://pypi.org/project/qrcode/)
