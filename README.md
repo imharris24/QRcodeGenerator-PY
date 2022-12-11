@@ -128,6 +128,6 @@ Project Link: [QR Code Generator](https://github.com/imharris24/QRcodeGenerator-
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Following are the resources used in this project,
 
 * [qrcode - PyPI](https://pypi.org/project/qrcode/)
