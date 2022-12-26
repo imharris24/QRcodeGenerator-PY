@@ -4,15 +4,15 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/count/imharris24/QRcodeGenerator-PY?label=Languages&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/top/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/repo-size/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues-pr-closed/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/forks/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/imharris24/QRcodeGenerator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/imharris24/QRcodeGenerator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/count/imharris24/QR-Code-Generator-PY?label=Languages&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues-pr-closed/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/imharris24/QR-Code-Generator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/imharris24/QR-Code-Generator-PY?style=for-the-badge">
 </div>
 
 
@@ -21,14 +21,14 @@
   <p align="center">
     Python script that generates QR-code!
     <br />
-    <a href="https://github.com/imharris24/QRcodeGenerator-PY"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/imharris24/QR-Code-Generator-PY"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/imharris24/QRcodeGenerator-PY/tree/main/src">View Demo</a>
+    <a href="https://github.com/imharris24/QR-Code-Generator-PY/tree/main/src">View Demo</a>
     ·
-    <a href="https://github.com/imharris24/QRcodeGenerator-PY/issues">Report Bug</a>
+    <a href="https://github.com/imharris24/QR-Code-Generator-PY/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imharris24/QRcodeGenerator-PY/issues">Request Feature</a>
+    <a href="https://github.com/imharris24/QR-Code-Generator-PY/issues">Request Feature</a>
   </p>
 </div>
 
@@ -46,10 +46,10 @@ This python script generates a QR code of entered URL of data.
 <br>
 
 <div align="center">
-  <img width=auto height=auto src="https://github.com/imharris24/QRcodeGenerator-PY/blob/main/screenshot/screenshot1.png">
+  <img width=auto height=auto src="https://github.com/imharris24/QR-Code-Generator-PY/blob/main/screenshot/screenshot1.png">
   <br>
   <br>
-  <img width=auto height=auto src="https://github.com/imharris24/QRcodeGenerator-PY/blob/main/screenshot/screenshot2.png">
+  <img width=auto height=auto src="https://github.com/imharris24/QR-Code-Generator-PY/blob/main/screenshot/screenshot2.png">
 </div>
 
 <br>
@@ -97,7 +97,7 @@ $ ./main.py
 - [x] Implement Generation
 - [ ] provide UI
 
-See the [open issues](https://github.com/imharris24/QRcodeGenerator-PY/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/imharris24/QR-Code-Generator-PY/issues) for a full list of proposed features (and known issues).
 
 
 ## Contributing
@@ -123,7 +123,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 MUHAMMAD HARRIS - [@im_harrisg](https://instagram.com/im_harrisg) - harris20014@gmail.com
 
-Project Link: [QR Code Generator](https://github.com/imharris24/QRcodeGenerator-PY)
+Project Link: [QR Code Generator](https://github.com/imharris24/QR-Code-Generator-PY)
 
 
 ## Acknowledgments
